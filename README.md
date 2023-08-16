@@ -1,4 +1,4 @@
 # miniCustomizator
-Mini app. for changing the text size and background of the page.
-Test work. Ver. 0.1
+<b>Mini app. for changing the text size and background of the page.</b>
+<p>Test work. Ver. 0.1</p>
 <i>Data is stored in local storage</i>
