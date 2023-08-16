@@ -3,4 +3,4 @@
 <p>Test work. Ver. 0.1</p>
 <i>Data is stored in local storage</i>
 <hr>
-<a href="https://geokav.ru/demo/miniCustomizator/"><i>Demo</i></a>
+<a href="https://geokav.ru/demo/miniCustomizator/" target="_blank"><i>Demo</i></a>
